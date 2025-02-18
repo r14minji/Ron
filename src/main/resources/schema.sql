@@ -1,0 +1,6 @@
+CREATE TABLE users (
+    id VARCHAR(71) NOT NULL,
+    name VARCHAR(71) NOT NULL,
+    age INT NOT NULL,
+    PRIMARY KEY(id)
+);
