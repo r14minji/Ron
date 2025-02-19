@@ -28,13 +28,36 @@
 * PostgreSQL Driver
 * H2 Database SQL
 
-## intelliJ jdk setting
+
+## IDE option 1 - VS Code
+### plugin extension setting
+ - Extension Pack for Java
+ - Gradle for Java
+ - Lombok Annotations Support for VS Code
+ - Debugger for Java
+ - Spring Initializr Java Support
+ - Spring Boot Dashboard
+ - Spring Boot Extension Pack
+ - Spring Boot Tools
+ - Spring Initializr Java Support
+ - Test Runner for Java
+
+ ### Run
+ * Run and Debug
+
+<br>
+
+## IDE option 2 - IntelliJ
+### jdk setting
 * 설정 - project structure - JDK - Download Jdk
     * version: 17
     * vender: temurin-17
 
 ## compiler setting
 * 설정 - settings - java compiler 검색 - project bytecode version - 17 설정
+
+## plugin setting
+* Lombok
 
 ## run
 Application 파일 실행
